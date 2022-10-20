@@ -1,0 +1,37 @@
+body{
+background: white;
+}
+h1{
+  text-align: center; 
+  }
+p {
+  text-align: center;
+}
+em strong{
+    color: red;
+  }
+  #banner{
+ width: 100%;
+  }
+  
+.intens{
+  font-style: italic;
+}
+.cor{
+  background: #ccc;
+  padding: 30px;
+}
+h2{
+  text-align: center;
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%
+
+}
+
+.imagembeneficios{
+  width: 50%;
+}
