@@ -1,3 +1,3 @@
 # AluraSal-o
-Do zero a uma carreira de sucesso no mercado web, com HTML, CSS, JavaScript!
+Formação Front-End, Alura!
 https://formularioestudobryanndev.netlify.app/ 
